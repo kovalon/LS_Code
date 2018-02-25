@@ -3,7 +3,7 @@
 #define X A1
 #define Y A2
 #define Z A2
-// пяятницааа
+
 int result1;
 int result2;
 int x;
